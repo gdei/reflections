@@ -3,3 +3,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
     It doesn't neccessarily contain all files from the working directory. Different from the repository, it contains no informations about commits already been done. The value is, it makes it easy to collect the files for a commit even if it would be difficult to name all files to be added in a commit command
+
+How can you use the staging area to make sure you have one commit per logical change?
+    collect all changes relevant for that change in the staging area; check if that's all you need with git diff
+
+
