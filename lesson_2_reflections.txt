@@ -11,4 +11,7 @@ What are some situations when branches would be helpful in keeping your history 
     Developing a new version while still maintaining the old version of a project - branching makes it easy to work on both versions alternately
     Being able to play with the source code on a large scale without loosing the ability to work on the master branch 
 
+How do the diagrams help you visualize the branch structure?
+    They show each branch as a separate line, visualizing the parent relationship within and between each branch.
+
 
