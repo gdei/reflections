@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
     A branch is a separate line of development within a repository. I would use it for developing different flavours of a project, like stable, testing and unstable.
     A clone is an exact copy of a repository that's meant to stay in sync with the original. I would use it for cloning a remote to my workstation or to multiple computers when I have write acces to the remote.
     A fork is like a clone, but without write access to the original repository. I would use it for cloning other people's projects when I want to fork off my own line of development.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+    You're able to see if you're ahead of the remote.
