@@ -19,4 +19,11 @@ one in collaboration yet, so I can't say anything about the differences.
     Another option would be to have a common file repository and copy and
 paste files between there and my own computer - that would be plain ugly...
 
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+    I'd use a master branch when making greater changes to the code that could
+affect the code stability, e.g. a development version. Branching allows
+playing around and testing stuff while keeping a stable running version in the
+master branch.
+
 
